@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>ParrotCast</title><subtitle>🎧 Мы – подкаст про людей в Data Science</subtitle><updated>2021-01-06T22:52:51+03:00</updated><id>https://parrotcast.github.io//</id><generator uri="https://sparanoid.com/lab/amsf/" version="2.0.19">Almace Scaffolding</generator><link rel="alternate" type="text/html" hreflang="en" href="https://parrotcast.github.io//" /><link rel="self" type="application/atom+xml" href="https://parrotcast.github.io//feed.xml" /><author><name>ParrotCast</name><uri>https://parrotcast.github.io//</uri><email>hey@parrotcast.info</email></author><entry><title>Episode 1 – Евгений Кашин, Snap Inc.</title><id>https://parrotcast.github.io//1</id><link rel="alternate" type="text/html" href="https://parrotcast.github.io//1" /><published>2021-01-06T00:00:00+03:00</published><updated>2021-01-06T21:42:27+03:00</updated><author><name>ParrotCast</name><uri>https://parrotcast.info/</uri><email>hey@parrotcast.info</email></author><content type="html" xml:base="https://parrotcast.github.io//">
+          
+            &lt;p&gt;&lt;img src=&quot;/assets/img/guest-1.png&quot; alt=&quot;Image&quot; class=&quot;no-resize size-right&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;описание&quot;&gt;Описание&lt;/h2&gt;
+
+&lt;p&gt;🎙 Пилотный выпуск нашего подкаста! В гостях у нас Евгений Кашин – ML-инженер из Snap Inc.
+С Женей мы успели обсудить кучу вещей:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Из Воронежа в Лондон 🇬🇧&lt;/li&gt;
+  &lt;li&gt;Snapchat и маски 😷&lt;/li&gt;
+  &lt;li&gt;Будущие прорывы в DS и AR 🚀&lt;/li&gt;
+  &lt;li&gt;Вопросы от русской GPT-3 🤖&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;… и многое другое 😉&lt;/p&gt;
+
+&lt;p&gt;Домашнее задание: отгадать, какие именно вопросы были сгенерированы нейросетью 🦾😄&lt;/p&gt;
+
+&lt;p&gt;Подписывайтесь на наши социальные сети:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/parrotcast&quot;&gt;https://twitter.com/parrotcast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Telegram: &lt;a href=&quot;https://twitter.com/parrotcast&quot;&gt;https://t.me/parrotcast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ставьте лайки, пишите отзывы, и уже совсем скоро увидимся в следующем выпуске!&lt;/p&gt;
+
+&lt;h2 id=&quot;прослушать-на-сайте&quot;&gt;Прослушать на сайте&lt;/h2&gt;
+&lt;iframe src=&quot;https://anchor.fm/parrotcast/embed&quot; height=&quot;30%&quot; width=&quot;20px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+
+          
+          
+        
+      
+        </content><summary></summary></entry></feed>
