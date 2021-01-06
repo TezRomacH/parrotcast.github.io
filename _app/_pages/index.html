@@ -13,38 +13,22 @@ thumb_force_logo: true
   <header>
 
     <h1 class="image-title">
-      Almace Scaffolding
-      <img src="{{ amsf_user_assets }}/svg/amsf.svg">
+      ParrotCast
+      <img src="{{ amsf_user_assets }}/svg/custom-header.svg">
     </h1>
 
-    <h2 class="sub-title">A super-fast Jekyll framework fighting against the website obesity.</h2>
+    <h2 class="sub-title">🎧 Мы – подкаст про людей в Data Science</h2>
 
-    <small>a.k.a. <b>AMSF</b>&#x30FB;ver. <b class="amsf-version">2.0.19</b>&#x30FB;view it on <a href="https://github.com/sparanoid/almace-scaffolding">GitHub</a></small>
+    <small>   <a href="">Apple Podcasts</a>
+      &#x30FB;<a href="">Google Podcasts</a>
+      &#x30FB;<a href="">Яндекс.Музыка</a>
+      &#x30FB;<a href="https://open.spotify.com/show/3d4JeGPmOcBrOLQxfGMVL3">Spotify</a>
+      &#x30FB;<a href="https://open.spotify.com/show/3d4JeGPmOcBrOLQxfGMVL3">RSS</a></small>
   </header>
 
   <div class="page-content">
-    <h2>Getting Started</h2>
-    {% for post in site.tags.getting-started %}
-      {%- include themes/{{ site.amsf_theme }}/includes/page-item.html -%}
-    {% endfor %}
-
-    <h2>Customization</h2>
-    {% for post in site.tags.customization %}
-      {%- include themes/{{ site.amsf_theme }}/includes/page-item.html -%}
-    {% endfor %}
-
-    <h2>Theme Curtana</h2>
-    {% for post in site.tags.curtana %}
-      {%- include themes/{{ site.amsf_theme }}/includes/page-item.html -%}
-    {% endfor %}
-
-    <h2>Deployment</h2>
-    {% for post in site.tags.deployment %}
-      {%- include themes/{{ site.amsf_theme }}/includes/page-item.html -%}
-    {% endfor %}
-
-    <h2>Miscellaneous</h2>
-    {% for post in site.tags.miscellaneous %}
+    <h2>2021</h2>
+    {% for post in site.tags.first %}
       {%- include themes/{{ site.amsf_theme }}/includes/page-item.html -%}
     {% endfor %}
   </div>

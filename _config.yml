@@ -8,7 +8,7 @@
 #
 source:         _app
 destination:    _site
-timezone:       America/Los_Angeles
+timezone:       Europe/Moscow
 permalink:      /:title.html
 markdown:       kramdown
 highlighter:    rouge
@@ -66,7 +66,7 @@ dev:            false
 # Site name
 #
 # Default:      Almace Scaffolding
-name:           Almace Scaffolding
+name:           ParrotCast
 
 # Site short name
 #
@@ -82,14 +82,14 @@ name:           Almace Scaffolding
 # - name_short: Sparanoid
 #
 # Default:      AMSF
-name_short:     AMSF
+name_short:     ParrotCast
 
 # Site description
 #
 # Will be used in the document meta and Atom feed subtitle
 #
 # Default:      Super-fast Jekyll framework
-description:    Super-fast Jekyll framework
+description:    🎧 Мы – подкаст про людей в Data Science
 
 # Base URL
 #
@@ -99,7 +99,7 @@ description:    Super-fast Jekyll framework
 # `/my-project`, without trailing slash.
 #
 # Default:      ""
-baseurl:        /lab/amsf
+baseurl:        ""
 
 # Flatten base
 #
@@ -129,7 +129,7 @@ feed:           /feed.xml
 # URLs for these fields
 #
 # Default:      https://sparanoid.com
-url:            https://sparanoid.com
+url:            https://parrotcast.github.io/
 
 # Media assets URL
 #
@@ -176,7 +176,7 @@ google_analytics:
   url:          https://www.google-analytics.com/analytics.js
 
 # Site Twitter account handle
-twitter:        sparanoid
+twitter:        parrotcast
 
 # Twitter Cards large images
 #

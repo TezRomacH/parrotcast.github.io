@@ -1,8 +1,8 @@
 - title: __home__
   url:   /
 
-- title: News
-  url:   /news/
+- title: Твиттер
+  url:   https://twitter.com/parrotcast
 
-- title: About
-  url:   /about/
+- title: Телеграм
+  url:   https://t.me/parrotcast
